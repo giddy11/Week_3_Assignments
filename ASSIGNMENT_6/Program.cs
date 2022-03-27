@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+//Gideon
 
 Console.Write("Input value for a: ");
 double a = Convert.ToDouble(Console.ReadLine());
